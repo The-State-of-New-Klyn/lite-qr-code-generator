@@ -1,0 +1,1 @@
+# lite-qr-code-generator
